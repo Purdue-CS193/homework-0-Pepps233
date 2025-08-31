@@ -1,19 +1,7 @@
 # Jay's First CS193 Homework
 
-```markdown
-Syntax highlighted code block
+## Jay's favorite things about CS193
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Homework assignments seem to be very fun to complete
+- Lecturers are very friendly
+- There are lots of helpful resources
